@@ -1,0 +1,9 @@
+{
+  "name": "panda-market-missions-1-to-4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node start.cjs",
+    "build": "npm --prefix mission-4 run build"
+  }
+}
